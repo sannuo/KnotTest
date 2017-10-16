@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello world!
 Test£¡
 walalla~
 The 4th line!
+=======
+Testï¿½ï¿½
+>>>>>>> parent of 43c617c... add new lines
